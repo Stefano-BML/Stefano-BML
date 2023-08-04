@@ -2,8 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://www.youtube.com/@stefanomadueno2362">StefanoMadueño</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/hwGxyb7.jpg">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Stefano-BML">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCouUHaufMgaUcjs1NRNT-ow">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Stefano-BML"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCouUHaufMgaUcjs1NRNT-ow">
 
 <!--
 **Stefano-BML/Stefano-BML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
