@@ -7,18 +7,20 @@
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCouUHaufMgaUcjs1NRNT-ow">
 </div>
 
+## Sobre mi
 
-<!--
-**Stefano-BML/Stefano-BML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⭐ Github Star ⭐ 
+- 👽 full-stack developer
+- 🎥 canal de difución de programación y educación en <a href="https://www.youtube.com/@stefanomadueno2362">Youtube</a> (+3.4k subs)
+- ✏️ Co-reador de la Newletter <a href="https://blackroom7.substack.com/">BlackRoom7</a>
 
-Here are some ideas to get you started:
+### ⚙️ &nbsp;GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/Stefano-BML">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Stefano-BML&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stefano-BML&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
