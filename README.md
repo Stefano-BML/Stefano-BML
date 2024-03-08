@@ -12,7 +12,7 @@
 - ⭐ Github Star ⭐ 
 - 👽 full-stack developer
 - 🎥 canal de difución de programación y educación en <a href="https://www.youtube.com/@stefanomadueno2362">Youtube</a> (+3.4k subs)
-- ✏️ Co-reador de la Newletter <a href="https://blackroom7.substack.com/">BlackRoom7</a>
+- ✏️ creador de UX*CONTENT
 
 ### ⚙️ &nbsp;GitHub Analytics
 
